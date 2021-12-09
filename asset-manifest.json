@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/internshiptask1/static/css/main.1f9b7213.chunk.css",
+    "main.js": "/internshiptask1/static/js/main.c9644b0b.chunk.js",
+    "main.js.map": "/internshiptask1/static/js/main.c9644b0b.chunk.js.map",
+    "runtime-main.js": "/internshiptask1/static/js/runtime-main.bd026e9b.js",
+    "runtime-main.js.map": "/internshiptask1/static/js/runtime-main.bd026e9b.js.map",
+    "static/css/2.0cf21405.chunk.css": "/internshiptask1/static/css/2.0cf21405.chunk.css",
+    "static/js/2.382bb01c.chunk.js": "/internshiptask1/static/js/2.382bb01c.chunk.js",
+    "static/js/2.382bb01c.chunk.js.map": "/internshiptask1/static/js/2.382bb01c.chunk.js.map",
+    "index.html": "/internshiptask1/index.html",
+    "static/css/2.0cf21405.chunk.css.map": "/internshiptask1/static/css/2.0cf21405.chunk.css.map",
+    "static/css/main.1f9b7213.chunk.css.map": "/internshiptask1/static/css/main.1f9b7213.chunk.css.map",
+    "static/js/2.382bb01c.chunk.js.LICENSE.txt": "/internshiptask1/static/js/2.382bb01c.chunk.js.LICENSE.txt",
+    "static/media/Rectangle 5.05a0766a.png": "/internshiptask1/static/media/Rectangle 5.05a0766a.png",
+    "static/media/Front.module.css": "/internshiptask1/static/media/Rectangle2.5a261cc4.png",
+    "static/media/bootstrap-icons.css": "/internshiptask1/static/media/bootstrap-icons.38c4d249.woff",
+    "static/media/formLogin.1eabd4ec.png": "/internshiptask1/static/media/formLogin.1eabd4ec.png",
+    "static/media/image2.7d1187b7.png": "/internshiptask1/static/media/image2.7d1187b7.png",
+    "static/media/image3.e7b712dd.png": "/internshiptask1/static/media/image3.e7b712dd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd026e9b.js",
+    "static/css/2.0cf21405.chunk.css",
+    "static/js/2.382bb01c.chunk.js",
+    "static/css/main.1f9b7213.chunk.css",
+    "static/js/main.c9644b0b.chunk.js"
+  ]
+}
